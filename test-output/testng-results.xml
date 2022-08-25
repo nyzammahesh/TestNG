@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-12T01:03:41 IST" name="Suite" finished-at="2022-08-12T01:03:57 IST" duration-ms="16134">
+    <groups>
+    </groups>
+    <test started-at="2022-08-12T01:03:41 IST" name="Test" finished-at="2022-08-12T01:03:57 IST" duration-ms="16134">
+      <class name="org.crossbrowsertesting.Crissbrowserdataprovider">
+        <test-method signature="tc01(java.lang.String)[pri:0, instance:org.crossbrowsertesting.Crissbrowserdataprovider@61001b64]" started-at="2022-08-12T01:03:41 IST" name="tc01" data-provider="parameters" finished-at="2022-08-12T01:03:50 IST" duration-ms="9710" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method signature="tc01(java.lang.String)[pri:0, instance:org.crossbrowsertesting.Crissbrowserdataprovider@61001b64]" started-at="2022-08-12T01:03:50 IST" name="tc01" data-provider="parameters" finished-at="2022-08-12T01:03:57 IST" duration-ms="6349" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+      </class> <!-- org.crossbrowsertesting.Crissbrowserdataprovider -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
